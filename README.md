@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo realizar uma análise exploratória de dado sobre os tipos de queijos produzidos no Canadá, utilizando um dataset público,
 
-# Obejtito
+# Objetivo
 
 Entender como estão dispostas as informações relacionadas à produção de queijo canadense, identificando padrões, categorias, volumes e possíveis insights a partir dos dados fornecidos.
 
@@ -18,4 +18,4 @@ Dataset original: https://www.kaggle.com/datasets/noahjanes/canadian-cheese-dire
 
 # Próximos Passos
 
-Gerar visualizações interativas Power BI
+Gerar visualizações interativas no Power BI
