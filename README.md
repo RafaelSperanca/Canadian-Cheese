@@ -1,4 +1,4 @@
-# Canadian-Cheese
+# Canadian Cheese Analysis
 
 Este projeto tem como objetivo realizar uma análise exploratória de dado sobre os tipos de queijos produzidos no Canadá, utilizando um dataset público,
 
@@ -12,9 +12,9 @@ Dataset original: https://www.kaggle.com/datasets/noahjanes/canadian-cheese-dire
 
 # Ferramentas Utilizadas
 
-Python (pandas, numby,matplotlib, seaborn);
-Google colaboratory;
-Análise exploratória.
+- Python (pandas, numby,matplotlib, seaborn);
+- Google colaboratory;
+- Análise exploratória.
 
 # Próximos Passos
 
