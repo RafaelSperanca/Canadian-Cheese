@@ -18,4 +18,4 @@ Dataset original: https://www.kaggle.com/datasets/noahjanes/canadian-cheese-dire
 
 # Próximos Passos
 
-Gerar visualizações interativas no Power BI
+Gerar visualizações interativas no Power BI (Adicionado em 19/08/2025)
