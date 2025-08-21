@@ -7,7 +7,7 @@ Este projeto apresenta um dashboard interativo no Power BI, que oferece uma aná
 ## Objetivo do Projeto
 
 - Explorar a diversidade de queijos;
-- Visualiar a produção por província;
+- Visualizar a produção por província;
 - Comparar os diferentes tipos de fabricação;
 - Analisar as categorias de queijos e seus percentuais;
 - Analisar o tipo de leite usado.
